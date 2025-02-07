@@ -66,8 +66,8 @@ Or set up a cron job to run every 10 minutes:
 - If emails are not received, verify the SMTP credentials and logs.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the  [MIT License](./LICENSE.md).
 
 ## Author
-[Your Name]
+Hassan Ali
 
